@@ -21,13 +21,12 @@ body {
 
 .AppTitle {
     display: flex;
-    width: 23.5vw;
+    width: 25vw;
     border-right: 1px solid #ccc;
     justify-content: center;
     box-sizing: border-box;
     padding: 20px;
     font-weight: 700;
-    background-color: #B2C6D4;
     font-size: 2em;
 }
 
